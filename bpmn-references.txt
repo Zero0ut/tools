@@ -1,5 +1,3 @@
-
-
 ActivitiExplorer
 https://dzone.com/articles/tutorial-devoxx-activiti-bpmn
 
@@ -26,3 +24,6 @@ Camunda BPM Example:
 https://www.youtube.com/watch?v=ypX90aQScOQ
 7 Tutorial: Process Communication
 https://www.youtube.com/watch?v=8SYEc3dHnM4
+
+Comparing and Contrasting Open Source BPM Projects:
+https://medium.com/capital-one-tech/comparing-and-contrasting-open-source-bpm-projects-196833f23391
